@@ -6,8 +6,8 @@ The first in a series to document my path to applying Python knowledge and under
 This Discord Bot, programmed with Python, will post a message (application side) that it is ready once the script is run. The Bot will also reply to messages with a simple text reply.
 
 Needed:
-Python 3.10.2
-Discord
-Discord Bot account created through Developer Portal
-Text Editor
-IDE
+Python 3.10.2 <br/>
+Discord <br/>
+Discord Bot account created through Developer Portal <br/>
+Text Editor <br/>
+IDE <br/>
