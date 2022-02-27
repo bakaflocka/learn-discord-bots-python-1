@@ -1,18 +1,19 @@
 # learn-discord-bots-python-1
-## Introduction:
+### Introduction:
 
 The first in a series to document my path to applying Python knowledge and understanding towards something practical. Feel free to follow along and implement these bots in a Discord server. I am planning to add documentation to use alongside programs to elaborate what is needed and what each line is accomplishing.
 
 This Discord Bot, programmed with Python, will post a message (application side) that it is ready once the script is run. The Bot will also reply to messages with a simple text reply.
 
-## Needed: <br/>
+### Needed: <br/>
 Python 3.10.X <br/>
-Discord <br/>
-Discord Bot account created through Developer Portal <br/>
+Discord and Discord Bot account created through Developer Portal (instructions below) <br/>
+discord.py Library(also below)</br>
 Text Editor <br/>
 IDE <br/>
 
-## Creating a Discord Bot
+## Initial Setup
+### Creating a Discord Bot
 1. Visit the [Discord Developer Portal](https://discord.com/developers/applications) and log in with your Discord account. 
 2. Select "New Application" in the top right. </br>
 ![New Application Button in the top right](https://i.imgur.com/q80dwZa.png)
@@ -28,7 +29,7 @@ IDE <br/>
 ![Bot token image](https://i.imgur.com/MRuujdk.png) </br>
 Keep this token secret. I saved a txt file on my machine with the Token for easy reference in the future.
 
-## Inviting your Discord Bot to your server
+### Inviting your Discord Bot to your server
 Note: You will need administrative level permissions to add the Discord bot to the Discord Server you are implementing it on. </br>
 1. Left-hand side: Select "OAuth2" under the Settings list. Then select "URL Generator". </br>
 ![0Auth2 on the left hand side](https://i.imgur.com/yABhJFh.png)
@@ -41,3 +42,12 @@ Note: You will need administrative level permissions to add the Discord bot to t
 5. You will now be able to select which server you can add your bot to, from the drop down list. Once you've selected your server, click Continue and through the Authorization menu next. The bot should now be added to your server!
 ![Adding the bot to your server](https://i.imgur.com/Qavj9uW.png) </br>
 ![Bot added](https://i.imgur.com/AmynN5p.png)
+
+### Installing the discord.py Library
+1. Using your command line, enter the text below to install the Library locally.
+```
+py -3 -m pip install -U discord.py
+```
+You will see your command line "go crazy" with different text and graphics. This is okay, and means that the library is installing! You may need to use pip3, depending on your OS. </br>
+![terminal installing Discord library](https://i.imgur.com/eX4WkCU.png) </br>
+2. You should now be ready to begin scripting Discord bots in your preferred IDE!
