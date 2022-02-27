@@ -29,3 +29,4 @@ async def on_message(message):
 
 client.run('YOUR DISCORD BOT TOKEN')
 #paste your Discord Bot's token above. Leave the opening ' and closing ' for syntax purposes
+#friendly reminder to never share your bot's token
