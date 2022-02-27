@@ -52,4 +52,4 @@ You will see your command line "go crazy" with different text and graphics. This
 2. You should now be ready to begin scripting Discord bots in your preferred IDE!
 
 ## Running Python Scripts
-There are many ways to run scripts once they are saved. Extensive documentation on how to run scripts is located on this RealPython's [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) instruction article.
+There are quite a few ways to run your scripts. Personally, I will be running my scripts remotely on a Raspberry Pi. Extensive documentation on how to run scripts is located on this RealPython's [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) instruction article.
