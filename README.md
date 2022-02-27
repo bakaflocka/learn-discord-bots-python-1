@@ -9,8 +9,8 @@ This Discord Bot, programmed with Python, will post a message (application side)
 Python 3.10.X <br/>
 Discord and Discord Bot account created through Developer Portal (instructions below) <br/>
 discord.py Library(also below)</br>
-Text Editor <br/>
-IDE <br/>
+Text Editor/IDE <br/>
+Basic understanding of Python/programming<br/>
 
 ## Initial Setup
 ### Creating a Discord Bot
