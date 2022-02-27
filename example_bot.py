@@ -12,7 +12,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
 	print('What it do, just logged in as {0.user}'.format(client))
-#registers event. Library is asynchronous, we do things in a "callback" style manner
+#async is used to run multiple commands at a time
 #the on_ready event is called when the bot finishes logging in 
 	
 #below, on_message event is called when the bot has received a message
@@ -23,8 +23,6 @@ async def on_message(message):
 		return
 	if message.content.startswith('!hello'):
 		await message.channel.send('Hello!')
-	if message.content.startswith('!findgod'):
-		await message.channel.send('Skete Davidson says no.')
 #if a message in the Discord starts with '!hello', then bot sends back message 'Hello!' in channel
 
 client.run('YOUR DISCORD BOT TOKEN')
