@@ -51,3 +51,6 @@ py -3 -m pip install -U discord.py
 You will see your command line "go crazy" with different text and graphics. This is okay, and means that the library is installing! You may need to use pip3, depending on your OS. </br>
 ![terminal installing Discord library](https://i.imgur.com/eX4WkCU.png) </br>
 2. You should now be ready to begin scripting Discord bots in your preferred IDE!
+
+## Running Python Scripts
+There are many ways to run scripts once they are saved. Extensive documentation on how to run scripts is located on this RealPython's [How to Run Your Python Scripts](https://realpython.com/run-python-scripts/) instruction article.
