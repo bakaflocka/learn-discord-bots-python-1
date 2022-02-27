@@ -16,15 +16,14 @@ Basic understanding of Python/programming<br/>
 1. Visit the [Discord Developer Portal](https://discord.com/developers/applications) and log in with your Discord account. 
 2. Select "New Application" in the top right. </br>
 ![New Application Button in the top right](https://i.imgur.com/q80dwZa.png)
-3. "Create an Application" should pop up. Enter a name, which we will keep as your Discord Bot's name. </br>
+3. "Create an Application" should pop up. Enter a name, which we will keep as your Discord Bot's name.</br>
 ![Create an Application pop up](https://i.imgur.com/foBx65h.png)
-4. Congrats! You've made your first Discord Developer application. Update that resume! </br>
-5. Left-hand side: Select "Bot" under the Settings list. </br>
+4. Left-hand side: Select "Bot" under the Settings list. </br>
 ![Bot setting selection on left](https://i.imgur.com/qjZ18y6.png)
-6. Build-A-Bot should appear if you have no bots created with this application. Select "Add bot" on the right-hand side.
+5. Build-A-Bot should appear if you have no bots created with this application. Select "Add bot" on the right-hand side.
 ![Build-a-bot menu](https://i.imgur.com/kAGkRNz.png) </br>
 ![Add bot button on right](https://i.imgur.com/IBvJ28m.png)
-7. At the "Bot" page is where you can manage permissions for your bot, as well as access your Token. This Token is the main identifier for how your programs will communicate with the Discord API (Application Programming Interface) through your scripts and programs. </br>
+6. At the "Bot" page is where you can manage permissions for your bot, as well as access your Token. This Token is the main identifier for how your programs will communicate with the Discord API (Application Programming Interface) through your scripts and programs. </br>
 ![Bot token image](https://i.imgur.com/MRuujdk.png) </br>
 Keep this token secret. I saved a txt file on my machine with the Token for easy reference in the future.
 
@@ -40,7 +39,8 @@ Note: You will need administrative level permissions to add the Discord bot to t
 ![URL has been generated](https://i.imgur.com/NCyodF7.png)
 5. You will now be able to select which server you can add your bot to, from the drop down list. Once you've selected your server, click Continue and through the Authorization menu next. The bot should now be added to your server! </br>
 ![Adding the bot to your server](https://i.imgur.com/Qavj9uW.png) </br>
-![Bot added](https://i.imgur.com/AmynN5p.png)
+![Bot added](https://i.imgur.com/AmynN5p.png) </br>
+Update that resume! 
 
 ### Installing the discord.py Library
 1. Using your command line, enter the text below to install the Library locally.
