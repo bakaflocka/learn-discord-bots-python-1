@@ -1,11 +1,10 @@
 # learn-discord-bots-python-1
-### Introduction:
-
+### Introduction</br>
 The first in a series to document my path to applying Python knowledge and understanding towards something practical. Feel free to follow along and implement these bots in a Discord server. I am planning to add documentation to use alongside programs to elaborate what is needed and what each line is accomplishing.
 
-This Discord Bot, programmed with Python, will post a message (application side) that it is ready once the script is run. The Bot will also reply to messages with a simple text reply.
+This particular Discord Bot, programmed with Python, will post a message (application side) that it is ready once the script is run. The Bot will also reply to certain messages with a simple text reply. This GitHub repo is mostly used as an initalization - to get your bot created, and to learn how your scripts interact with Discord at a basic level.
 
-### Needed: <br/>
+### Needed <br/>
 Python 3.10.X <br/>
 Discord and Discord Bot account created through Developer Portal (instructions below) <br/>
 discord.py Library(also below)</br>
