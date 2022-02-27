@@ -39,7 +39,7 @@ Note: You will need administrative level permissions to add the Discord bot to t
 ![Bot Permissions](https://i.imgur.com/xTXpCEv.png)
 4. A URL should be generated under the permissions. Copy the text and paste into your browser. </br>
 ![URL has been generated](https://i.imgur.com/NCyodF7.png)
-5. You will now be able to select which server you can add your bot to, from the drop down list. Once you've selected your server, click Continue and through the Authorization menu next. The bot should now be added to your server!
+5. You will now be able to select which server you can add your bot to, from the drop down list. Once you've selected your server, click Continue and through the Authorization menu next. The bot should now be added to your server! </br>
 ![Adding the bot to your server](https://i.imgur.com/Qavj9uW.png) </br>
 ![Bot added](https://i.imgur.com/AmynN5p.png)
 
