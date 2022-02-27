@@ -1,11 +1,10 @@
 #my script was created in the Raspberry Pi OS, but should work with any OS with Python installed
-#paste the script below into your text editor and save as a .py file
-#when the script is running correctly, your Discord bot will be log into the Discord server
-#you may be able to run the script through your text editor/IDE, as I am on Raspberry Pi OS
+#paste the script below into your text editor and save as a .py file - comments such as this can be removed for cleaner code
+#when the script is running correctly, your Discord bot will log into the Discord server, as verified in the server's users list
 #refer to the read me for this repository for more help if needed
 
 import discord
-#imports library which allows your discord bot to communicate with discord, using below scripts
+#imports library which allows your discord bot to communicate with discord, using definitions and commands below
 
 client = discord.Client()
 #creates instance of a client, which is our connection to Discord
